@@ -59,7 +59,11 @@
   <ItemGroup>
     <Compile Include="Assets\Code\Client-Server\ServerCommunication.cs" />
     <Compile Include="Assets\Code\Events\BaseEvent.cs" />
+    <Compile Include="Assets\Code\Events\BaseEventParameterized.cs" />
+    <Compile Include="Assets\Code\Events\BoolEventRoot.cs" />
+    <Compile Include="Assets\Code\Events\Group.cs" />
     <Compile Include="Assets\Code\Events\SimpleEventRoot.cs" />
+    <Compile Include="Assets\Code\UI\LoadCircle.cs" />
     <Compile Include="Assets\Code\UI\StartMenu.cs" />
     <Compile Include="Assets\Code\Utility\NetworkChecker.cs" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader" />

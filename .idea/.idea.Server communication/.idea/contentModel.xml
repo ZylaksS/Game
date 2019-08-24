@@ -12,9 +12,13 @@
           </e>
           <e p="Events" t="Include">
             <e p="BaseEvent.cs" t="Include" />
+            <e p="BaseEventParameterized.cs" t="Include" />
+            <e p="BoolEventRoot.cs" t="Include" />
+            <e p="Group.cs" t="Include" />
             <e p="SimpleEventRoot.cs" t="Include" />
           </e>
           <e p="UI" t="Include">
+            <e p="LoadCircle.cs" t="Include" />
             <e p="StartMenu.cs" t="Include" />
           </e>
           <e p="Utility" t="Include">
